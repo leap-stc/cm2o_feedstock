@@ -1,19 +1,18 @@
-title: "LEAP Data Library Prototype"
+title: "NOAA-GFDL CM2-O Coupled Climate Model Simulations"
 description: >
-  A prototype test for the LEAP Data Library refactor
+  
 recipes:
   - id: "small"
     object: "recipe:small"
-  - id: "large"
-    object: "recipe:large"
 provenance:
   providers:
-    - name: "Julius"
-      description: "Just a guy testing some recipes. Nothing to see here."
+    - name: "NOAA-GFDL"
+      description: "NOAA-GFDL"
       roles:
         - producer
         - licensor
-  license: "Just a Test"
+      url: "https://mom-ocean.github.io/assets/pdfs/CM2_O_suite_1990_tutorial_and_analysis.pdf"
+  license: "Unknown"
 maintainers:
   - name: "Julius Busecke"
     orcid: "0000-0001-8571-865X"
