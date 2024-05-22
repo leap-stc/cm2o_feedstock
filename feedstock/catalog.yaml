@@ -4,13 +4,6 @@ tags:
   - my-custom-tag
   - zarr
 stores:
-  - id: "small"
-    name: "The cool small Proto Dataset"
-    url: "gs://leap-scratch/data-library/feedstocks/proto_feedstock/small.zarr"
-    "ncviewjs:rechunking":
-      - path: "gs://some-bucket/small.zarr"
-        use_case: "multiscales"
-
-  - id: "large"
-    name: "The even cooler large Proto Dataset" # no pyramids
-    url: "gs://leap-scratch/data-library/feedstocks/proto_feedstock/large.zarr"
+  - id: "CM26_control_surface"
+    name: "CM2.6 Control Run"
+    url: "gs://cmip6/GFDL_CM2_6/control/surface"  
