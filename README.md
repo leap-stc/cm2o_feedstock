@@ -1,5 +1,4 @@
-# LEAP Template Feedstock
-This repository serves as template/documentation/testing ground for Leap-Pangeo Data Library Feedstocks.
+# NOAA-GFDL CM2-O Feedstock
 
 ## Setup
 ### Use this template
