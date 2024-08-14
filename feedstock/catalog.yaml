@@ -7,3 +7,6 @@ stores:
   - id: "CM26_control_surface"
     name: "CM2.6 Control Run"
     url: "gs://cmip6/GFDL_CM2_6/control/surface"  
+  - id: "CM26_control_atm"
+    name: "CM2.6 Control Run Atmosphere"
+    url: "gs://cmip6/GFDL_CM2_6/control/atmos_daily.zarr"
